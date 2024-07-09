@@ -1,5 +1,6 @@
 # Machine Learning Model for Predicting Consumer Prices
 Description
+
 This project focuses on developing a machine learning model to predict consumer prices using various economic indicators. The aim is to create a reliable model that can forecast future prices based on historical data.
 
 Features and Labels
